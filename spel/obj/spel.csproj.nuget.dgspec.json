@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joakim.lundellselan\\Documents\\programering\\spel\\spel\\spel.csproj": {}
+    "c:\\Users\\joakim.lundellselan\\Documents\\programering\\spel\\spel\\spel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joakim.lundellselan\\Documents\\programering\\spel\\spel\\spel.csproj": {
+    "c:\\Users\\joakim.lundellselan\\Documents\\programering\\spel\\spel\\spel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joakim.lundellselan\\Documents\\programering\\spel\\spel\\spel.csproj",
+        "projectUniqueName": "c:\\Users\\joakim.lundellselan\\Documents\\programering\\spel\\spel\\spel.csproj",
         "projectName": "spel",
-        "projectPath": "C:\\Users\\joakim.lundellselan\\Documents\\programering\\spel\\spel\\spel.csproj",
+        "projectPath": "c:\\Users\\joakim.lundellselan\\Documents\\programering\\spel\\spel\\spel.csproj",
         "packagesPath": "C:\\Users\\joakim.lundellselan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joakim.lundellselan\\Documents\\programering\\spel\\spel\\obj\\",
+        "outputPath": "c:\\Users\\joakim.lundellselan\\Documents\\programering\\spel\\spel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,10 @@
 ﻿
 int heroHp = 100;
 int villainHp = 100;
-
-string heroName = "Joakim den coola";
-string villainName = "Rassiga Musen";
+Console.WriteLine("p1 skriv ditt namn");
+string heroName = Console.ReadLine();
+Console.WriteLine("p2 skriv ditt namn");
+string villainName = Console.ReadLine();
 
 Random generator = new Random();
 

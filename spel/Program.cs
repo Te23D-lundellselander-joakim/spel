@@ -10,7 +10,7 @@ Random generator = new Random();
 
 while (heroHp > 0 && villainHp > 0)
 {
-  Console.WriteLine("\n----- ===== NY RUNDA ===== -----");
+  Console.WriteLine("----- ===== NY RUNDA ===== -----");
   Console.WriteLine($"{heroName}: {heroHp}  {villainName}: {villainHp}\n");
 
   int heroDamage = generator.Next(20);
@@ -27,7 +27,7 @@ while (heroHp > 0 && villainHp > 0)
   Console.ReadKey();
 }
 
-Console.WriteLine("\n----- ===== STRIDEN ÄR SLUT ===== -----");
+Console.WriteLine("----- ===== STRIDEN ÄR SLUT ===== -----");
 
 if (heroHp == 0 && villainHp == 0)
 {
